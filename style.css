@@ -1,0 +1,46 @@
+.box{
+    width: 800px;
+    height: 300px;
+    border: 2px solid;
+    border-color: black;
+    border-radius: 40px 130px;
+    background-color: rgb(226, 169, 83);
+    margin: 100px 170px;
+    padding: 80px; 
+}
+
+body {
+    background-color:  #e4c8bb;
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 46px;
+    text-shadow: 4px 4px 4px #aaa;
+    color: rgb(29, 16, 143);
+}
+
+.kontakt, .profil {
+    color: rgb(7, 7, 83)
+}
+
+div {
+    font-family: 'Dancing Script', cursive; 
+    font-size: 22px;
+    line-height: 1.5;
+}
+
+p {
+    font-family: 'Sorts Mill Goudy', serif;
+    font-size: 18px;
+    font-weight: 400; 
+    line-height: 1.5;
+    text-align: left;
+}
+
+
+img {
+    border-radius: 20px;
+    border-color: black;
+    float: right;
+}
